@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azammustafa66
+- 👋 Hi, I'm Azam Mustufa
 - 👀 I’m interested in Coding,coding and coding
 - 🌱 I’m currently learning Engineering in Computer Science
 - 💞️ I’m looking to collaborate on good open source projects for beginners from where I can start my opensource journey

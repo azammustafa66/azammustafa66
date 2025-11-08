@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on good open source projects for beginners from where I can start my opensource journey
 - 📫 How to reach me
 - Mail: azammustafa66@gmail.com
-- Instgram: mustafas_ig
 
 <!---
 azammustafa66/azammustafa66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,11 +2,12 @@
 
 # 👋 Hi, I'm Azam Mustufa Didagur
 
-### Data Scientist | Machine Learning Engineer | Python Developer
+### Software Engineer | Backend Developer | System Design Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azam20/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azammustafa66@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azammustafa66)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/azammustafa/)
 
 </div>
 
@@ -14,29 +15,30 @@
 
 ## 🚀 About Me
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Azam Mustufa Didagur"
-        self.role = "Data Scientist & ML Engineer"
-        self.location = "India 🇮🇳"
-        self.education = "B.E. in Computer Science & Engineering"
-        self.university = "Visvesvaraya Technological University"
-        
-    def get_skills(self):
-        return {
-            'languages': ['Python', 'SQL', 'C/C++'],
-            'ml_frameworks': ['Scikit-learn', 'XGBoost', 'TensorFlow'],
-            'data_viz': ['Power BI', 'Tableau', 'Excel', 'Matplotlib', 'Seaborn'],
-            'tools': ['Git', 'Jupyter', 'VS Code', 'MySQL'],
-            'expertise': ['Machine Learning', 'Predictive Modeling', 
-                         'Feature Engineering', 'Data Analysis']
-        }
+```typescript
+class SoftwareEngineer {
+    name: string = "Azam Mustufa Didagur";
+    role: string = "Associate System Engineer @ IBM";
+    location: string = "Bangalore, India 🇮🇳";
+    education: string = "B.E. in Computer Science & Engineering";
+    university: string = "Visvesvaraya Technological University";
     
-    def current_focus(self):
-        return "Building end-to-end ML pipelines and solving real-world problems"
+    getSkills(): Record<string, string[]> {
+        return {
+            languages: ['TypeScript', 'JavaScript', 'Java', 'Python', 'SQL', 'C++'],
+            backend: ['Node.js', 'Bun', 'Express', 'Redis', 'BullMQ'],
+            databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
+            architecture: ['Distributed Systems', 'Atomic Concurrency', 'RBAC', 'Microservices'],
+            testing: ['Selenium', 'Playwright', 'Cypress', 'k6']
+        };
+    }
+    
+    currentFocus(): string {
+        return "Building highly concurrent, scalable backend APIs and distributed systems.";
+    }
+}
 
-me = DataScientist()
+const me = new SoftwareEngineer();
 ```
 
 ---
@@ -45,26 +47,29 @@ me = DataScientist()
 
 <div align="center">
 
-### Languages & Frameworks
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Machine Learning & Data Science
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+### Backend & Architecture
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
-### Visualization & BI Tools
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Testing & DevOps
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -78,63 +83,17 @@ me = DataScientist()
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azammustafa66&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azammustafa66&theme=tokyonight&hide_border=true)
-
 </div>
-
----
-
-## 🎓 Certifications
-
-<div align="center">
-
-| Certificate | Issuer | Focus Area |
-|------------|--------|------------|
-| 📊 Google Data Analytics Professional | Google | Data Analysis & Visualization |
-| 💾 SQL for Professionals | - | Database Management |
-| 🧮 Math for Machine Learning | DeepLearning.ai | Linear Algebra & Calculus |
-| 📈 Excel for Data Analysts | - | Advanced Excel Techniques |
-| 🐍 Python Bootcamp | Codebasics | Python Programming |
-
-</div>
-
----
-
-## 🎯 Core Competencies
-
-```mermaid
-mindmap
-  root((Data Science))
-    Machine Learning
-      Regression Models
-      Classification
-      Ensemble Methods
-      Hyperparameter Tuning
-    Data Engineering
-      Feature Engineering
-      Data Imputation
-      ETL Pipelines
-      Data Modeling
-    Analytics
-      KPI Tracking
-      Forecasting
-      Statistical Analysis
-      A/B Testing
-    Visualization
-      Dashboards
-      Reports
-      Business Intelligence
-```
 
 ---
 
 ## 💡 What I'm Up To
 
-- 🔭 Currently working on **ML projects and algorithmic trading systems**
-- 🌱 Learning **deep learning architectures and model optimization techniques**
-- 👯 Looking to collaborate on **open source ML/AI projects**
-- 💬 Ask me about **Python, Machine Learning, Data Analysis, or Algorithmic Trading**
-- ⚡ Fun fact: **I love diving deep into the mathematics behind ML algorithms!**
+- 💼 **Current Role:** Associate System Engineer at IBM (managing quality engineering for SAP SuccessFactors).
+- 🔭 **Currently Building:** High-performance, concurrent backend architectures and distributed systems.
+- 🌱 **Learning:** Deepening my knowledge in Java backend frameworks and advanced system design patterns.
+- 🏆 **Achievements:** Top 13% globally on LeetCode (281+ problems solved) and 3x Hackathon Finalist.
+- 💬 **Ask me about:** TypeScript, Node.js concurrency, Database optimization, and API architecture.
 
 ---
 
@@ -144,9 +103,9 @@ mindmap
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azam20/)
 [![Email](https://img.shields.io/badge/Email-azammustafa66@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azammustafa66@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-000000?style=for-the-badge&logo=github)](https://github.com/azammustafa66)
+[![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/azammustafa/)
 
-### 💼 Open to Data Science & ML Engineering Opportunities!
+### 💼 Open to Software Engineering & Backend Development Opportunities!
 
 </div>
 
@@ -154,7 +113,7 @@ mindmap
 
 <div align="center">
 
-### 🌟 "Data is the new oil, but insights are the refined fuel that drives decisions" 🌟
+### 🌟 "Building robust systems starts with understanding how things break." 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=azammustafa66&color=blueviolet&style=for-the-badge)
 

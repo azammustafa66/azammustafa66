@@ -81,8 +81,6 @@ const me = new SoftwareEngineer();
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azammustafa66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azammustafa66&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
@@ -91,7 +89,7 @@ const me = new SoftwareEngineer();
 
 - 💼 **Current Role:** Associate System Engineer at IBM (managing quality engineering for SAP SuccessFactors).
 - 🔭 **Currently Building:** High-performance, concurrent backend architectures and distributed systems.
-- 🌱 **Learning:** Deepening my knowledge in Java backend frameworks and advanced system design patterns.
+- 🌱 **Learning:** Deepening my knowledge in JavaScript backend frameworks and advanced system design patterns.
 - 🏆 **Achievements:** Top 13% globally on LeetCode (281+ problems solved) and 3x Hackathon Finalist.
 - 💬 **Ask me about:** TypeScript, Node.js concurrency, Database optimization, and API architecture.
 

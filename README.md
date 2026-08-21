@@ -29,7 +29,7 @@ public class SoftwareEngineer {
         return Map.of(
             "languages", List.of("Java", "Python", "SQL", "C++"),
             "frameworks", List.of("Spring Boot", "Spring Cloud", "Spring Data JPA", "Hibernate"),
-            "infrastructure", List.of("Kafka", "Docker", "Kubernetes", "AWS"), //[cite: 1]
+            "infrastructure", List.of("Kafka", "Docker", "Kubernetes", "AWS"),
             "databases", List.of("PostgreSQL", "MySQL", "Neo4j", "Redis"),
             "testing", List.of("JUnit", "Mockito", "Selenium")
         );
@@ -79,13 +79,13 @@ public class SoftwareEngineer {
 ## 📂 Featured Projects
 
 - **Orbit Net Social Networking Platform** &nbsp;`Java · Spring Boot · Spring Cloud · Kafka · Neo4j · K8s`
-  Built a microservices-based social platform behind a Spring Cloud Gateway[cite: 1]. Utilized Kafka for asynchronous post/notification event streams and modeled 1st/2nd degree connections in Neo4j to bypass heavy relational self-joins[cite: 1].
+  Built a microservices-based social platform behind a Spring Cloud Gateway. Utilized Kafka for asynchronous post/notification event streams and modeled 1st/2nd degree connections in Neo4j to bypass heavy relational self-joins.
 
-- **Home Energy Tracker** &nbsp;`Java 21 · Spring Boot 4 · Kafka · InfluxDB · Resilience4j`
-  Architected a 7-service monitoring platform with OAuth2/Keycloak auth[cite: 1]. Designed an async ingestion pipeline streaming readings into an InfluxDB time-series database with threshold alerting and circuit breakers[cite: 1].
+- **Home Energy Tracker** &nbsp;`Java · Spring Boot 4 · Kafka · InfluxDB · Resilience4j`
+  Architected a 7-service monitoring platform with OAuth2/Keycloak auth. Designed an async ingestion pipeline streaming readings into an InfluxDB time-series database with threshold alerting and circuit breakers.
 
-- **UPI Offline Mesh** &nbsp;`Java 17 · Spring Boot · JPA/Hibernate · AES encryption`
-  Developed a settlement backend for mesh-routed offline payments featuring AES encryption, duplicate detection, and robust idempotency[cite: 1].
+- **UPI Offline Mesh** &nbsp;`Java · Spring Boot · JPA/Hibernate · AES encryption`
+  Developed a settlement backend for mesh-routed offline payments featuring AES encryption, duplicate detection, and robust idempotency.
 
 ---
 
@@ -101,10 +101,10 @@ public class SoftwareEngineer {
 
 ## 💡 What I'm Up To
 
-- 💼 **Current Role:** Software Engineer at IBM, building backend microservices for SAP SuccessFactors cloud integrations with Java and Spring Boot[cite: 1].
+- 💼 **Current Role:** Software Engineer at IBM, building backend microservices for SAP SuccessFactors cloud integrations with Java and Spring Boot.
 - 🔭 **Currently Building:** High-performance event-driven architectures and scalable APIs.
 - 🌱 **Learning:** Advanced Spring Cloud patterns, Kubernetes orchestration, and AI integrations (Spring AI).
-- 🏆 **Achievements:** Top 13% globally on LeetCode & 3x Hackathon Finalist[cite: 1].
+- 🏆 **Achievements:** Top 13% globally on LeetCode & 3x Hackathon Finalist.
 - 💬 **Ask me about:** Java, Spring Boot microservices, Kafka event streams, and database optimization.
 
 ---

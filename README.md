@@ -21,17 +21,17 @@ import java.util.Map;
 
 public class SoftwareEngineer {
     private final String name = "Azam Mustufa Didagur";
-    private final String role = "Software Engineer @ IBM"; //[cite: 1]
-    private final String location = "Bangalore, India 🇮🇳"; //[cite: 1]
-    private final String education = "B.E. in Computer Science & Engineering"; //[cite: 1]
+    private final String role = "Software Engineer @ IBM";
+    private final String location = "Bangalore, India 🇮🇳";
+    private final String education = "B.E. in Computer Science & Engineering";
 
     public Map<String, List<String>> getTechStack() {
         return Map.of(
-            "languages", List.of("Java", "Python", "SQL", "C++"), //[cite: 1]
-            "frameworks", List.of("Spring Boot", "Spring Cloud", "Spring Data JPA", "Hibernate"), //[cite: 1]
+            "languages", List.of("Java", "Python", "SQL", "C++"),
+            "frameworks", List.of("Spring Boot", "Spring Cloud", "Spring Data JPA", "Hibernate"),
             "infrastructure", List.of("Kafka", "Docker", "Kubernetes", "AWS"), //[cite: 1]
-            "databases", List.of("PostgreSQL", "MySQL", "Neo4j", "Redis"), //[cite: 1]
-            "testing", List.of("JUnit", "Mockito", "Selenium") //[cite: 1]
+            "databases", List.of("PostgreSQL", "MySQL", "Neo4j", "Redis"),
+            "testing", List.of("JUnit", "Mockito", "Selenium")
         );
     }
 
